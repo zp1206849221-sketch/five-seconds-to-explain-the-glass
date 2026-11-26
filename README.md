@@ -1,6 +1,6 @@
 [![Bounty](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949?utm_source=github&utm_medium=readme&utm_campaign=five-seconds-to-explain-the-glass)
 [![Rank](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949/zp1206849221-sketch/five-seconds-to-explain-the-glass/rank.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949?utm_source=github&utm_medium=readme&utm_campaign=five-seconds-to-explain-the-glass)
-[![Reward](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949/reward.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949?utm_source=github&utm_medium=readme&utm_campaign=five-seconds-to-explain-the-glass)
+[![Reward](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949/zp1206849221-sketch/five-seconds-to-explain-the-glass/reward.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949?utm_source=github&utm_medium=readme&utm_campaign=five-seconds-to-explain-the-glass)
 
 # Five Seconds to Explain the Glass
 
